@@ -1,5 +1,5 @@
 # Gomoku
-A graphical implementation of Gomoku (Connect 5). An engine that plays using simple heuristics is included. 
+A graphical implementation of Gomoku (Connect 5). An engine that plays using a simple heuristic evaluation function is included. 
 
 <img src="https://github.com/wqian0/Gomoku/blob/master/animated_gomoku.gif" width="500" height="500"/>
 
